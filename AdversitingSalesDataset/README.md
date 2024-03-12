@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src="AdversitingSalesDataset\images\dataset-card.jpg" width="100%">
+  <img alt="Projeto" src="AdversitingSalesDataset\images\dataset-card.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -17,10 +17,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e bibliotecas:
 
 - Python
 - Pandas
-- NLTK (Natural Language Toolkit)
+- Seaborn e Matplotlib
 - Scikit-learn
-- Imbalanced-learn
-- Matplotlib e Seaborn
+- Regressão Linear
 
 
 ## 💻 Projeto
