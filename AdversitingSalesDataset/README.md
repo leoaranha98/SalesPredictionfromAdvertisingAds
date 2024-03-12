@@ -8,7 +8,7 @@
 <br>
 
 <p align="center">
-  <img alt="Projeto" src="AdversitingSalesDataset\images\dataset-card.jpg" width="100%">
+  <img alt="Projeto" src="AdversitingSalesDataset/images/dataset-card.jpg">
 </p>
 
 ## 🚀 Tecnologias
